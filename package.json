@@ -2,9 +2,6 @@
   "name": "qkart_me_backend",
   "version": "1.4.1",
   "main": "src/index.js",
-  "engines": {
-    "node": ">=14.20.1"
-  },
   "scripts": {
     "start": "node src/index.js",
     "test": "jest -i"
